@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/giphy.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif?raw=true" width="500" height="320" />
 
 <!--
 **ishaansharma/ishaansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
