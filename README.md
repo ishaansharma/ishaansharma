@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif?raw=true" width="500" height="320" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaansharma.ishaansharma
+
 <!--
 **ishaansharma/ishaansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaansharma.ishaansharma)
